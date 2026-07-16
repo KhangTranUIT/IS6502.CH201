@@ -42,7 +42,7 @@ def save_plot():
 # =========================================================
 # LOAD DATA
 # =========================================================
-data1 = pd.read_csv("FPT.csv")
+data1 = pd.read_csv("601988.SH.csv")
 
 data1.index = pd.to_datetime(
     data1['trade_date'],
