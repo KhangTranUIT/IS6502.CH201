@@ -1,4 +1,4 @@
-Code chạy với Python 3.7.4 với các lib sau 
+Code chạy với Python 3.7.4 và các lib sau 
 
 ```numpy==1.16.5
 sklearn==0.21.3
