@@ -9,11 +9,14 @@ keras==2.3.1
 xgboost==1.5.0
 ```
 
-1. Chạy baseline
-a. Chạy file ARIMA_new_4paper.py để tạo file phi tuyến ARIMA_residuals1.csv
-b. Chạy file Main_new_4paper.py để dự đoán các kết quả
+**1. Chạy baseline**
 
-2. Chạy dữ liệu chứng khoán VN
+   a. Chạy file ARIMA_new_4paper.py để tạo file phi tuyến ARIMA_residuals1.csv
+
+   b. Chạy file Main_new_4paper.py để dự đoán các kết quả
+
+**2. Chạy dữ liệu chứng khoán VN**
+ 
 a. vào file ARIMA_new_4paper.py dòng 50
 ```
 data = pd.read_csv('601988.SH.csv') 
