@@ -33,3 +33,6 @@ data1 = pd.read_csv("CTG.csv")
 Xong chạy để lấy kết quả dự đoán.
 
 Làm tương tự với 3 mã chứng khoán còn lại
+
+
+tham khảo file demo_IS6502_CH201.ipynb để biết thêm cách chạy
