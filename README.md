@@ -6,7 +6,8 @@ statsmodels==0.10.1
 pandas==0.25.1
 tensorflow==2.1.0
 keras==2.3.1
-xgboost==1.5.0 ```
+xgboost==1.5.0
+```
 
 1. Chạy baseline
 a. Chạy file ARIMA_new_4paper.py để tạo file phi tuyến ARIMA_residuals1.csv
